@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://howmastodon.works/guide/1-intro-what-is-mastodon/</loc>
+  </url><url>
+    <loc>https://howmastodon.works/guide/2-what-is-different/</loc>
+  </url><url>
     <loc>https://howmastodon.works/categories/</loc>
   </url><url>
     <loc>https://howmastodon.works/guide/</loc>
@@ -9,7 +13,5 @@
     <loc>https://howmastodon.works/</loc>
   </url><url>
     <loc>https://howmastodon.works/tags/</loc>
-  </url><url>
-    <loc>https://howmastodon.works/guide/1-intro-what-is-mastodon/</loc>
   </url>
 </urlset>

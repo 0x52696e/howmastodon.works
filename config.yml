@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "How Mastodon Works"
-  description: "A guide to the fediverse for the post Twitter world"
+  description: "A guide to the fediverse for the post-Twitter world"
   keywords: [Guide]
   # author:
   # author: ["Me", "You"] # multiple authors
@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: How Mastodon Works
-    subtitle: "A guide to the fediverse for the post Twitter world"
+    subtitle: "A guide to the fediverse for the post-Twitter world"
     buttons:
       - name: Get Started
         url: guide/1-intro-what-is-mastodon

@@ -15,8 +15,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://howmastodon.works/guide/1-intro-what-is-mastodon/</guid>
-      <description>Mastodon is an open-source microblogging platform created by Eugen Rochko in 2016 - It has features that are similar to Twitter which are provided to users through independently managed &amp;ldquo;nodes&amp;rdquo; or &amp;ldquo;instances&amp;rdquo;. Users on Mastodon belong to a specific instance.
-Instances are run by different organizations/users &amp;amp; will feature their own terms of service, code of conduct &amp;amp; moderation teams. Instances can be broad &amp;amp; all encompassing such as the original https://mastodon.</description>
+      <description>Mastodon is an open-source microblogging platform created by Eugen Rochko in 2016 - It has features that are similar to Twitter which are provided to users through independently managed &amp;ldquo;nodes&amp;rdquo; or &amp;ldquo;instances&amp;rdquo;. Every account/user on Mastodon will belong to an individual instance rather than one &amp;ldquo;central&amp;rdquo; authority unlike Twitter. Instances can be run by any individual, group or organization &amp;amp; will feature their own terms of service, code of conduct &amp;amp; moderation teams.</description>
+    </item>
+    
+    <item>
+      <title>How is Mastodon different from Twitter?</title>
+      <link>https://howmastodon.works/guide/2-what-is-different/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://howmastodon.works/guide/2-what-is-different/</guid>
+      <description>Mastodon &amp;amp; Twitter accomplish short-form microblogging in very different ways - The end result might &amp;ldquo;look&amp;rdquo; similar but there are some important differences that we should dive into
+For Profit vs Community Funded Twitter is a for-profit entity for what has historically been an entirely free-to-use, advertisement supported platform. This has meant that the product of the platform is the end-users themselves (through serving advertisements &amp;amp; selling data) - Mastodon on the other hand has no advertisements &amp;amp; you have more control over your data.</description>
     </item>
     
   </channel>
