@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>How Mastodon Works</title>
+    <link>https://howmastodon.works/</link>
+    <description>Recent content on How Mastodon Works</description>
+    <image>
+      <url>https://howmastodon.works/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://howmastodon.works/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://howmastodon.works/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Mastodon?</title>
+      <link>https://howmastodon.works/guide/1-intro-what-is-mastodon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://howmastodon.works/guide/1-intro-what-is-mastodon/</guid>
+      <description>Mastodon is an open-source microblogging platform created by Eugen Rochko in 2016 - It has features that are similar to Twitter which are provided to users through independently managed &amp;ldquo;nodes&amp;rdquo; or &amp;ldquo;instances&amp;rdquo;. Users on Mastodon belong to a specific instance.
+Instances are run by different organizations/users &amp;amp; will feature their own terms of service, code of conduct &amp;amp; moderation teams. Instances can be broad &amp;amp; all encompassing such as the original https://mastodon.</description>
+    </item>
+    
+  </channel>
+</rss>
